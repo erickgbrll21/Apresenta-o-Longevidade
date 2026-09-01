@@ -1,0 +1,9 @@
+node_modules/
+out/
+build/
+dist/
+.DS_Store
+*.log
+.remotion/
+.firecrawl/
+*.tsbuildinfo
