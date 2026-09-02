@@ -1,0 +1,23 @@
+{
+  "name": "longevidade-business-presentation",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "render": "remotion render LongevidadeBusiness out/longevidade-business.mp4",
+    "still": "remotion still LongevidadeBusiness"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.286",
+    "@remotion/google-fonts": "4.0.286",
+    "@remotion/transitions": "4.0.286",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.286"
+  },
+  "devDependencies": {
+    "typescript": "5.7.2",
+    "@types/react": "18.3.1"
+  }
+}
